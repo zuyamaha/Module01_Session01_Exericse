@@ -1,0 +1,9 @@
+*{box-sizing = border-box;
+margin: 0;
+padding: 0;
+}
+/* relative: lấy vị trí mà nó đang đứng làm gốc tọa độ, nếu chỉ có mình nó thì nó sẽ phụ thuộc vào trình duyệt, góc trái trên cùng */
+.box-parent {
+    background-color: red;
+    
+}

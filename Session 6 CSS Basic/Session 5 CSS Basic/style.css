@@ -1,0 +1,10 @@
+.submit-button {
+    font-size: 32px
+    padding: 4px 16px; 
+    background-color: #f0f0f0;
+
+    border-top: 4px solid red;
+    border-right: 10px dotted blueviolet;
+    border-bottom: 12px double green;
+    border-left: 18px groove purple;
+    }
