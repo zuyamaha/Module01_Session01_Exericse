@@ -8,3 +8,26 @@
     border-bottom: 12px double green;
     border-left: 18px groove purple;
     }
+.bai-2 {
+  font-family: Arial, sans-serif;
+}
+
+.bai-2 h1 {
+  margin: 0;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 32px 0;
+}
+
+.bai-2 nav {
+  background-color: #ddd;
+  text-align: center;
+  padding: 8px 0;
+}
+
+.bai-2 nav a {
+  color: #313131;
+  text-decoration: none;
+  margin: 0 10px;
+}
