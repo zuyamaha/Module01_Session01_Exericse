@@ -1,0 +1,40 @@
+.bai-3 {
+  padding: 20px;
+}
+
+.bai-3 h1 {
+  margin: 0 0 16px;
+}
+
+.contact-form {
+  width: 400px;
+  max-width: 100%;
+}
+
+.contact-form label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+.contact-form input,
+.contact-form textarea,
+.contact-form button {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  border: 1px solid #ccc;
+  margin-bottom: 14px;
+}
+
+.contact-form button {
+  background-color: #008a36;
+  color: white;
+  border: 0;
+}
