@@ -68,3 +68,33 @@
 .hop-tip b {
   color: #a65c00;
 }
+.khung-trich-dan {
+  max-width: 780px;
+  margin: 30px auto;
+  padding: 48px 20px 32px;
+  background-color: #fff8dc;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.khung-trich-dan h1 {
+  font-size: 48px;
+  margin: 0 0 24px;
+}
+
+.khung-trich-dan p {
+  font-size: 28px;
+  margin: 0 0 28px;
+}
+
+.khung-trich-dan button {
+  font-size: 22px;
+  padding: 14px 30px;
+  background-color: #eee;
+  border: 1px solid #777;
+  border-radius: 4px;
+}
+.khung-trich-dan button:hover {
+  background-color: green;
+  color: white;
+}
