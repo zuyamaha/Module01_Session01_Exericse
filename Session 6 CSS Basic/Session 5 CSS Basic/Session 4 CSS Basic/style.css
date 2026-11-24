@@ -38,3 +38,33 @@
   color: white;
   border: 0;
 }
+.khung-van-ban {
+  border: 1px solid black;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.khung-van-ban p {
+  margin: 0;
+}
+
+.khung-van-ban p + p {
+  margin-top: 20px;
+}
+
+.khung-van-ban a {
+  color: #0645ad;
+  text-decoration: none;
+}
+.hop-tip {
+  background-color: #ffffcc;
+  border-left: 5px solid orange;
+  padding: 16px;
+  line-height: 1.6;
+}
+
+.hop-tip b {
+  color: #a65c00;
+}
